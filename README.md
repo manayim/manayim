@@ -1,16 +1,22 @@
-## Hi there 👋
+# Hi, I'm manayim 👋
 
-<!--
-**manayim/manayim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+> 正在构建一些有趣的小玩意 🚀
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📊 我的 GitHub 统计
+<!-- 这是一个动态卡片，会自动显示你的等级和 Star 数 -->
+<p align="center">
+  <img src="https://vercel.app" alt="manayim's GitHub Stats" />
+</p>
+
+### 🛠 技术栈
+<!-- 这种是图3里那种方块风格的图标 -->
+![Next.js](https://shields.io)
+![TypeScript](https://shields.io)
+![TailwindCSS](https://shields.io)
+
+---
+
+### 📬 找到我
+[![Juejin](https://shields.io)](你的掘金主页链接)
