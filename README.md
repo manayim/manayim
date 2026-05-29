@@ -1,6 +1,10 @@
 <div align="center">
 
 <p>
+  <img src="https://avatars.githubusercontent.com/u/29697270?v=4" alt="manayim avatar" width="120" style="border-radius: 50%;" />
+</p>
+
+<p>
   <img src="./assets/profile-heading.svg" alt="Hi, I'm manayim" width="520" />
 </p>
 
@@ -27,14 +31,6 @@
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-
----
-
-### 📊 GitHub 统计
-
-<p align="center">
-  <img src="./assets/github-stats.svg" alt="manayim's GitHub Stats" width="495" />
-</p>
 
 ---
 
