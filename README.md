@@ -49,18 +49,6 @@
 
 ---
 
-### 📊 GitHub 统计
-
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=manayim&show_icons=true&theme=radical&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=manayim&layout=compact&theme=radical&hide_border=true)
-
-</div>
-
----
-
 ### 🏆 项目展示
 
 <div align="center">
