@@ -1,0 +1,49 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="495" height="195" viewBox="0 0 495 195">
+  <defs>
+    <style>
+      .sans { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif; }
+      .card { fill: #1e1e2e; stroke: rgba(139, 148, 158, 0.24); stroke-width: 1; }
+      .muted { fill: #9aa4b2; }
+      .text { fill: #cdd6f4; }
+      .blue { fill: #89b4fa; }
+      .green { fill: #a6e3a1; }
+      .pink { fill: #f5c2e7; }
+      .purple { fill: #cba6f7; }
+    </style>
+  </defs>
+  
+  <rect width="495" height="195" rx="12" class="card"/>
+  
+  <text x="24" y="40" class="sans blue" font-size="18" font-weight="700">GitHub Stats</text>
+  <text x="24" y="65" class="sans muted" font-size="14">manayim</text>
+  
+  <line x1="24" y1="85" x2="471" y2="85" stroke="rgba(139, 148, 158, 0.18)" stroke-width="1"/>
+  
+  <!-- Repos -->
+  <g transform="translate(24, 105)">
+    <rect width="100" height="70" rx="8" fill="rgba(137, 180, 250, 0.1)"/>
+    <text x="50" y="25" text-anchor="middle" class="sans blue" font-size="28" font-weight="800">2</text>
+    <text x="50" y="50" text-anchor="middle" class="sans muted" font-size="13">Repos</text>
+  </g>
+  
+  <!-- Followers -->
+  <g transform="translate(140, 105)">
+    <rect width="100" height="70" rx="8" fill="rgba(166, 227, 161, 0.1)"/>
+    <text x="50" y="25" text-anchor="middle" class="sans green" font-size="28" font-weight="800">0</text>
+    <text x="50" y="50" text-anchor="middle" class="sans muted" font-size="13">Followers</text>
+  </g>
+  
+  <!-- Following -->
+  <g transform="translate(256, 105)">
+    <rect width="100" height="70" rx="8" fill="rgba(245, 194, 231, 0.1)"/>
+    <text x="50" y="25" text-anchor="middle" class="sans pink" font-size="28" font-weight="800">1</text>
+    <text x="50" y="50" text-anchor="middle" class="sans muted" font-size="13">Following</text>
+  </g>
+  
+  <!-- Stars -->
+  <g transform="translate(372, 105)">
+    <rect width="100" height="70" rx="8" fill="rgba(203, 166, 247, 0.1)"/>
+    <text x="50" y="25" text-anchor="middle" class="sans purple" font-size="28" font-weight="800">19</text>
+    <text x="50" y="50" text-anchor="middle" class="sans muted" font-size="13">Stars</text>
+  </g>
+</svg>

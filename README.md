@@ -33,7 +33,7 @@
 ### 📊 GitHub 统计
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=manayim&show_icons=true&theme=radical" alt="manayim's GitHub Stats" />
+  <img src="./assets/github-stats.svg" alt="manayim's GitHub Stats" width="495" />
 </p>
 
 ---
