@@ -56,6 +56,7 @@
 | 项目 | 描述 | 技术 |
 |------|------|------|
 | [**EchoAgent**](https://github.com/manayim/EchoAgent) | Multi-Agent 自动化引擎 | Next.js, Claude 3.5 |
+| [**ai-image-studio**](https://github.com/manayim/ai-image-studio) | 🎨 AI 图像生成平台 | Next.js, OpenAI |
 | [**xhs_blueprint_picker**](https://github.com/manayim/xhs_blueprint_picker) | 小红书选品爬虫工具 | Python, Playwright |
 
 </div>
